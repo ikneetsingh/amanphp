@@ -1,0 +1,13 @@
+#ticker { border:1px solid #aaaaaa; }
+#ticker dt { font:normal 14px Georgia; padding:0 10px 5px 10px; background-color:#3A598A; padding-top:10px; border:1px solid #ffffff; border-bottom:none; border-right:none; position:relative; }
+#ticker dd { margin-left:0; font:normal 11px Verdana; padding:0 10px 10px 10px; border-bottom:1px solid #aaaaaa; background-color:#F8F7EE; border-left:1px solid #ffffff; position:relative; }
+#ticker dd.last { border-bottom:1px solid #ffffff; }
+#ticker div { margin-top:0; }
+.text
+{
+	color:#3986BB;
+}
+.heading
+{
+	color:white;
+}
